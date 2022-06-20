@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>website design</title>
+        <link href="./project.css" rel="stylesheet" type="text/css">;  
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;1,200;1,300&display=swap" rel="stylesheet">;
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;400;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+<div class="boxes">
+     <h1>Colors</h1>
+    <div class="colors">
+      <div id="midnight">
+        <br>
+        <p>midnight express</p>
+        <p>#031634</p>
+        <p>used in header and footer</p>
+      </div>
+
+      <div id="Mosque">
+        <br>
+        <p>Mosque</p>
+        <p>#016565</p>
+        <p>used in paragraghs</p>
+      </div>
+
+      <div id="Sherpa-Blue">
+        <br>
+        <p>Sherpa Blue</p>
+        <p>#023749</p>
+        <p>used in headlines</p>
+      </div>
+
+      <div id="Yuma">
+        <br>
+        <p>Yuma</p>
+        <p>#CDB380</p>
+        <p>used in lists</p>
+      </div>
+    </div>
+</div>
+<div class="boxes">
+  <h1>Fonts</h1>
+  <div class="fonts">
+      <div id="Nunito">
+      <h3>Nunito</h3>
+      <p id="ExtraLight200">Almost before we knew it, we had left the ground.</p>
+      <p id="Light300">Almost before we knew it, we had left the ground.</p>
+      <p id="Regular400">Almost before we knew it, we had left the ground.</p>
+      </div>
+      <div id="Roboto">
+        <h3>Roboto Mono</h3>
+        <p id="Light100">Almost before we knew it, we had left the ground.</p>
+        <p id="Regular400">Almost before we knew it, we had left the ground.</p>
+        <p id="bold700">Almost before we knew it, we had left the ground.</p>
+      </div>
+      <div id="Gentium">
+            <h3>Gentium</h3>
+            <p id="Light400">Almost before we knew it, we had left the ground.</p>
+            <p id="Regular400">Almost before we knew it, we had left the ground.</p>
+            <p id="bold700">Almost before we knew it, we had left the ground.</p>
+      </div>  
+  </div>  
+</div>
+<div class="boxes">
+    <h1>Text Styles</h1>
+    <div class="text">
+        <div id="heading">
+        <h3>Main heading</h3>
+        <ul>
+            <li>Font-weight: 700 bold</li>
+            <li>Font-size:26px</li>
+            <li>font-family: Roboto</li>
+        </ul>
+        </div>
+        <div id="Subheading">
+          <h3>Subheading</h3>
+          <ul>
+            <li>Font-weight: 400</li>
+            <li>Font-size: 20px</li>
+            <li>font-family: Roboto</li>
+        </ul>
+        </div>
+        <div id="Paragraph">
+              <h3>Paragraph ,element on Header & Footer</h3>
+              <ul>
+                <li>Font-weight: 200</li>
+                <li>Font-size: 18px</li>
+                <li>font-family: Nunito</li>
+            </ul>
+            </div>  
+        <div id="Lists">
+            <h3>Lists</h3>
+            <ul>
+                <li>Font-weight: 200</li>
+                <li>Font-size: 18px</li>
+                <li>font-family: Gentium</li>
+            </ul>
+        </div> 
+    </div>  
+  </div>
+    </body>
+</html>
